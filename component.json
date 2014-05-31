@@ -1,0 +1,11 @@
+{
+  "name": "p-each",
+  "repo": "camshaft/p-each",
+  "version": "0.1.0",
+  "scripts": [
+    "index.js"
+  ],
+  "dependencies": {
+    "visionmedia/batch": "^0.5.0"
+  }
+}
